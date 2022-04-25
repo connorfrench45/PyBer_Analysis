@@ -12,7 +12,7 @@ However, something interesting crops up when looking at the Average Fares number
 #### Part Two: A weekly fare chart comparing city types
 How does the fare amount vary from week to week? Let's look at January 2019 to April 2019:
 
-![Total Fare Graph](/analysis/total_fare_graph.PNG)
+![Total Fare Graph](/analysis/total_fare_graph.png)
 
 In this three month window, the fares for each city type increased slightly from January to April, though it wasn't a consistent increase. Week to week numbers varied wildly for each type, making a true analysis of this window difficult. Consistently, the Urban cities outperformed the Suburban and Rural cities, which matches our intuition and what Part One showed. 
 ## Summary
